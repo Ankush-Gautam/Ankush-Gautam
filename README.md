@@ -1,292 +1,201 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ankush Gautam</h1>
 
-# `ANKUSH-GAUTAM`
+<h3 align="center">
+Full-Stack Developer • Problem Solver • Building Real-World Applications
+</h3>
 
-### `full stack developer · web · backend · cloud`
+<p align="center">
+  <a href="https://github.com/Ankush-Gautam">
+    <img src="https://komarev.com/ghpvc/?username=ankush-gautam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=560&height=28&lines=full+stack+developer+%C2%B7+India;building+web+applications+%C2%B7+APIs+%C2%B7+cloud;learning+TypeScript+%C2%B7+shipping+projects" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/Ankush-Gautam">
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/ankush-gautam-a487a5324/">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/ankush_gautam1/">
-<img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=F0F6FC" alt="LeetCode"/>
-</a>
-<a href="mailto:gautamankush284@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ankush-gautam&style=for-the-badge&color=1A1A1A&label=PROFILE%20VIEWS" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Ankush-Gautam">
+    <img src="https://img.shields.io/github/followers/Ankush-Gautam?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Ankush-Gautam">
+    <img src="https://img.shields.io/github/stars/Ankush-Gautam?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
+
+I'm a **Full-Stack Developer from India** focused on building scalable, practical and user-focused web applications.
+
+* 🔭 Currently working on **Web Development Projects**
+* 🌱 Currently learning **TypeScript, advanced React and backend development**
+* 💻 Interested in **Full-Stack Development, REST APIs, Databases and Cloud**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🤝 Open to collaborating on interesting **Web Development Projects**
+* 🛠️ Currently working on projects involving **React, Node.js, Express and databases**
+* 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB and Full-Stack Development**
+* 📫 Reach me at **[gautamankush284@gmail.com](mailto:gautamankush284@gmail.com)**
+
+---
+
+## 🧩 Featured Projects
+
+### 🏥 Mediscan Cloud
+
+A healthcare-focused application designed to explore how modern web technologies and cloud-based services can be used to build useful healthcare solutions.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Python` `Cloud`
+
+🔗 **Repository:**
+https://github.com/Ankush-Gautam/Mediscan-Cloud
+
+---
+
+### 🌐 Web Development Projects
+
+A collection of projects covering frontend development, JavaScript, React, backend development and full-stack concepts.
+
+**Tech:** `HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `MongoDB`
+
+🔗 **Repository:**
+https://github.com/Ankush-Gautam/Web-Development-Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</p>
+
+---
+
+## 📚 Currently Learning
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   [ankush-gautam@github] ~$ whoami                           │
-│                                                              │
-│   Full Stack Developer                                       │
-│   India                                                      │
-│                                                              │
-│   I build responsive web applications, backend systems,      │
-│   APIs and projects that solve real-world problems.          │
-│                                                              │
-│   Currently → TypeScript                                     │
-│   Building → Web Development Projects                        │
-│   Exploring → Cloud · Backend · Full Stack                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `// CURRENTLY`
-
-</div>
-
-```text
-┌─ STATUS ─────────────────────────────────────────────────────┐
-│                                                              │
-│  🔭  BUILDING       Web-Development-Projects                 │
-│                                                              │
-│  🌱  LEARNING       TypeScript                               │
-│                                                              │
-│  🤝  COLLABORATING  Web Development                          │
-│                                                              │
-│  🏥  WORKING ON     Mediscan-Cloud                           │
-│                                                              │
-│  💬  ASK ME ABOUT   Full Stack Web Development                │
-│                                                              │
-│  📫  CONTACT        gautamankush284@gmail.com                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## `// STACK`
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-### `BACKEND / DATABASE`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-
-### `TOOLS / CLOUD`
-
-<img src="https://skillicons.dev/icons?i=git,docker,aws,postman,arduino" />
-
-</div>
-
----
-
-<div align="center">
-
-## `// WORK`
-
-</div>
-
-```text
-                    ┌──────────────┐
-                    │     IDEA     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   FRONTEND   │
-                    │ React / Next │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   BACKEND    │
-                    │ Node / APIs  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   DATABASE   │
-                    │ Mongo / SQL  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    DEPLOY    │
-                    │ Docker / AWS │
-                    └──────────────┘
+TypeScript
+   ↓
+Advanced JavaScript
+   ↓
+React + Next.js
+   ↓
+Node.js + Express
+   ↓
+Databases + Authentication
+   ↓
+Docker + Deployment
+   ↓
+System Design
 ```
 
 ---
 
-<div align="center">
+## 🧠 Problem Solving
 
-## `// PROJECTS`
+I regularly practice **Data Structures & Algorithms** to improve problem-solving and coding skills.
 
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏥 Mediscan-Cloud</h3>
-
-Cloud-based project for scanning images and providing diagnostic details.
-
-<br/>
-
-<b>Stack</b>
-
-`Python` · `Cloud` · `Image Analysis`
-
-<br/><br/>
-
-<a href="https://github.com/Ankush-Gautam/Mediscan-Cloud">
-<img src="https://img.shields.io/badge/SOURCE-0A0A0A?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🌐 Web-Development-Projects</h3>
-
-Collection of responsive and interactive web applications covering frontend, backend, APIs and modern web development.
-
-<br/>
-
-<b>Stack</b>
-
-`HTML` · `CSS` · `JavaScript` · `React` · `Node.js`
-
-<br/><br/>
-
-<a href="https://github.com/Ankush-Gautam/Web-Development-Projects">
-<img src="https://img.shields.io/badge/SOURCE-0A0A0A?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/u/ankush_gautam1/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/gautamane9m3">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-## `// DEPTH`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankush-gautam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-gautam&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=ankush-gautam&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankush-gautam&bg_color=00000000&color=8B949E&line=58A6FF&point=F0F6FC&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// ACTIVITY`
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankush-gautam&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-gautam&layout=compact&hide_border=true&bg_color=00000000&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&langs_count=8" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush-gautam&background=00000000&border=00000000&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankush-gautam&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 📈 Contribution Graph
 
-## `// CONTRIBUTIONS`
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ankush-Gautam/Ankush-Gautam/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ankush-Gautam/Ankush-Gautam/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="92%"
-    src="https://raw.githubusercontent.com/Ankush-Gautam/Ankush-Gautam/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
-  />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankush-gautam&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-## `// CONNECT`
+<p align="center">
+  <a href="https://linkedin.com/in/ankush-gautam-a487a5324">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ankush-gautam-a487a5324/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F0F6FC"/>
-</a>
+  <a href="https://leetcode.com/u/ankush_gautam1/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 
-<a href="https://www.kaggle.com/ankushgautam123">
-<img src="https://img.shields.io/badge/KAGGLE-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=F0F6FC"/>
-</a>
+  <a href="https://www.kaggle.com/ankushgautam123">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
 
-<a href="https://www.instagram.com/anky.82/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F0F6FC"/>
-</a>
+  <a href="https://www.geeksforgeeks.org/profile/gautamane9m3">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/ankush_gautam1/">
-<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=F0F6FC"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/gautamane9m3">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=F0F6FC"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:gautamankush284@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
+⚡ Build → Learn → Improve → Repeat
+</h3>
 
-```text
-[ankush-gautam@github ~]$ echo "keep building."
-
-keep building.
-keep learning.
-keep shipping.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=520&height=28&lines=%5Bankush-gautam%40github+~%5D%24+open+to+collaboration;%5Bankush-gautam%40github+~%5D%24+gautamankush284%40gmail.com" alt="Terminal typing"/>
-
-</div>
+<p align="center">
+⭐ If you find my projects useful, consider giving them a star!
+</p>
